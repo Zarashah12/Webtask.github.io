@@ -43,7 +43,7 @@
     text-decoration: none;
 }
 #banner{
-    background: url(/images/pngtreee_brown.jpg) no-repeat 0 0;
+    background: url(./images/pngtreee_brown.jpg) no-repeat 0 0;
     background-size: cover;
     position: relative;
     width: 100%;
